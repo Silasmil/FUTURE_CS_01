@@ -1,0 +1,13 @@
+FROM: noreply@dhl-delivery.com
+SUBJECT: Your package cannot be delivered
+
+Dear customer,
+
+Your package #DHL-93748293 is awaiting delivery. Please confirm your address:
+
+https://dhl-delivery.com/track/93748293
+
+If not confirmed within 48 hours, package will be returned.
+
+Best regards,
+DHL Express

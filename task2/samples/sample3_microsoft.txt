@@ -1,0 +1,15 @@
+FROM: security@microsoft-security.net
+SUBJECT: Action required: Unusual sign-in activity
+
+Dear Microsoft User,
+
+We detected a sign-in from an unrecognized device.
+
+Sign-in details:
+Location: Russia
+Device: iPhone 12
+
+If this wasn't you, secure your account here:
+https://microsoft-verify.net/secure-account
+
+Microsoft Security Team

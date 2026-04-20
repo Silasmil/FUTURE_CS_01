@@ -1,0 +1,19 @@
+FROM: noreply@github.com
+SUBJECT: [GitHub] Security alert: New sign-in detected
+
+Hi Milton Silas,
+
+A new sign-in to your GitHub account was detected.
+
+**Details:**
+- Device: Kali Linux
+- Location: Nairobi, Kenya
+- IP: 192.168.1.100
+
+If this was you, you can ignore this message.
+
+If this wasn't you, please review your security settings:
+https://github.com/settings/security
+
+Thanks,
+GitHub Security
